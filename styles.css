@@ -1,6 +1,3 @@
-body {
-    background-color: aqua;
-}
 
 .kasse {
     display: flex;
@@ -10,7 +7,6 @@ body {
 }
 
 #knap {
-    background-color: red; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
