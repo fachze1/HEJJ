@@ -2,11 +2,12 @@
 .kasse {
     display: flex;
     justify-content: center;
-    padding-top: 5em;
+    padding-top: 30em;
    
 }
 
 #knap {
+    background-color: saddlebrown;
     border: none;
     color: white;
     padding: 15px 32px;
